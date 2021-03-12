@@ -1,4 +1,7 @@
 # Web-design
+A logo creation for my projects, using Adobe XD
+
+![GitLogo](https://user-images.githubusercontent.com/74065235/111000077-fc1db500-835b-11eb-9577-fd6329b0c651.png)
 
 A “design recreation”, using Adobe XD - as practice to get an understanding of UI/UX design
 
